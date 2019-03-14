@@ -1,5 +1,5 @@
 # FIRST-CTI-2019
-Material for FIRST CTI 2019 Symposium presentation "5 years of applied CTI discipline where should organisations put focus on?"
+References mentioned in FIRST CTI 2019 Symposium presentation "5 years of applied CTI discipline where should organisations put focus on?"
 
 <ol>
 <li><a href="https://www.enisa.europa.eu/events/cti-eu-event/cti-eu-event-presentations/lessons-learned-from-teaching-cti-all-over-the-world/at_download/file" target="_blank" rel="noopener">Jess  Garcia - Lessons Learned from Teaching CTI All Over the World</a></li>
