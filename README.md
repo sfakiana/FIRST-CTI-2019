@@ -2,7 +2,6 @@
 References mentioned in FIRST CTI 2019 Symposium presentation "5 years of applied CTI discipline where should organisations put focus on?"
 
 <ol>
-<li><a href="https://www.enisa.europa.eu/events/cti-eu-event/cti-eu-event-presentations/lessons-learned-from-teaching-cti-all-over-the-world/at_download/file" target="_blank" rel="noopener">Jess  Garcia - Lessons Learned from Teaching CTI All Over the World</a></li>
 <li><a href="https://www.youtube.com/watch?v=1h7rLHNXio8" target="_blank" rel="noopener">CTI Summit 2017 Keynote - Cliff Stoll - (Still) Stalking the Wily Hacker</a></li>
 <li><a href="https://www.eclecticiq.com/resources/white-paper-building-cyber-threat-intelligence-practice?submissionGuid=6735f84f-06b8-4cb8-83f5-582baa59ad4a#download" target="_blank" rel="noopener">EclecticIQ - A Stakeholder-centric Approach to Building a Cyber Threat Intelligence (CTI) Practice</a></li>
 <li><a href="https://www.sans.org/reading-room/whitepapers/analyst/evolution-cyber-threat-intelligence-cti-2019-cti-survey-38790" target="_blank" rel="noopener"> SANS - 2019 CTI Survey</a></li>
@@ -33,6 +32,7 @@ References mentioned in FIRST CTI 2019 Symposium presentation "5 years of applie
 <li><a href="https://blog.eclecticiq.com/on-the-importance-of-standard-operating-procedures-in-threat-intelligence" target="_blank" rel="noopener">EclecticIQ - 15 Knowledge Areas and Skills for Cyber Analysts and Operators</a></li>
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol49no1/html_files/analytic_review_7.html" target="_blank" rel="noopener">CIA - Making the Analytic Review Process Work</a></li>
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/97unclass/axioms.html" target="_blank" rel="noopener">CIA - Fifteen Axioms for Intelligence Analysts</a></li>
+<li><a href="https://www.enisa.europa.eu/events/cti-eu-event/cti-eu-event-presentations/lessons-learned-from-teaching-cti-all-over-the-world/at_download/file" target="_blank" rel="noopener">Jess  Garcia - Lessons Learned from Teaching CTI All Over the World</a></li>
 <li><a href="https://medium.com/@comradecookie/what-is-cti-and-what-makes-a-good-cti-analyst-62bdded4de59" target="_blank" rel="noopener">ComradeCookie - What is CTI and what makes a good CTI analyst?</a></li>
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf" target="_blank" rel="noopener">Richards J. Heuer - Psychology of Intelligence Analysis</a></li>
 <li><a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511/" target="_blank" rel="noopener">Richards J. Heuer - Structured Analytic Techniques for Intelligence Analysis</a></li>
