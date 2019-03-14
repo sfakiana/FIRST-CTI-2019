@@ -20,7 +20,7 @@ References mentioned in FIRST CTI 2019 Symposium presentation "5 years of applie
 <li><a href="https://www.sans.org/course/cyber-security-writing-secrets" target="_blank" rel="noopener">SANS SEC402 - The Secrets to Successful Cybersecurity Writing: Hack the Reader</a></li>
 <li><a href="https://cdn.ymaws.com/www.scip.org/resource/resmgr/White_Papers/Analytic-Thinking-CIA.pdf" target="_blank" rel="noopener">CIA - Analytic Thinking and Presenting for Intelligence Producers</a></li>
 <li><a href="http://www.oss.net/dynamaster/file_archive/040319/cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf" target="_blank" rel="noopener">CIA - Compendium of Analytic Tradecraft Notes</a></li>
-<li><a href="https://fas.org/irp/cia/product/style.pdf" target="_blank" rel="noopener">Style Manual and Writers' Guide for Intelligence Publications</a></li>
+<li><a href="https://fas.org/irp/cia/product/style.pdf" target="_blank" rel="noopener">CIA - Style Manual and Writers' Guide for Intelligence Publications</a></li>
 <li><a href="https://shop.economist.com/products/the-economist-style-guide-12th-edition" target="_blank" rel="noopener">The Economist - Style Guide</a></li>
 <li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1548086284.pdf" target="_blank" rel="noopener">SANS CTI Summit 2019 - Analytic Tradecraft in the Real World - Amy R. Bejtlich</a></li>
 <li><a href="http://www.activeresponse.org/15-things-wrong-with-todays-threat-intelligence-reporting/" target="_blank" rel="noopener">Sergio Caltagirone - 15 Things Wrong with Today’s Threat Intelligence Reporting</a></li>
