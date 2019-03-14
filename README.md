@@ -3,7 +3,6 @@ Material for FIRST CTI 2019 Symposium presentation "5 years of applied CTI disci
 
 <ol>
 <li><a href="https://www.enisa.europa.eu/events/cti-eu-event/cti-eu-event-presentations/lessons-learned-from-teaching-cti-all-over-the-world/at_download/file" target="_blank" rel="noopener">Jess  Garcia - Lessons Learned from Teaching CTI All Over the World</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg" target="_blank" rel="noopener">Cliff Stoll - The Cuckoo'e Egg</a></li>
 <li><a href="https://www.youtube.com/watch?v=1h7rLHNXio8" target="_blank" rel="noopener">CTI Summit 2017 Keynote - Cliff Stoll - (Still) Stalking the Wily Hacker</a></li>
 <li><a href="https://www.eclecticiq.com/resources/white-paper-building-cyber-threat-intelligence-practice?submissionGuid=6735f84f-06b8-4cb8-83f5-582baa59ad4a#download" target="_blank" rel="noopener">EclecticIQ - A Stakeholder-centric Approach to Building a Cyber Threat Intelligence (CTI) Practice</a></li>
 <li><a href="https://www.sans.org/reading-room/whitepapers/analyst/evolution-cyber-threat-intelligence-cti-2019-cti-survey-38790" target="_blank" rel="noopener"> SANS - 2019 CTI Survey</a></li>
