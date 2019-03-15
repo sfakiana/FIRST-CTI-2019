@@ -15,6 +15,7 @@ References mentioned in FIRST CTI 2019 Symposium presentation "5 years of applie
 <li><a href="https://www.youtube.com/watch?v=XEmksbsrnv8" target="_blank" rel="noopener">CTI Summit 2017 - Christian Paredes - Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence</a></li>
 <li><a href="https://fas.org/irp/dni/icd/icd-203.pdf" target="_blank" rel="noopener">Intelligence Community Directive (ICD) 203 - Analytic Standards</a></li>
 <li><a href="https://www.recordedfuture.com/cyber-threat-intelligence-team/" target="_blank" rel="noopener">Recorded Future - How to Build a Cyber Threat Intelligence Team (and Why Technology Isn’t Enough)</a></li>
+<li><a href="https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms" target="_blank" rel="noopener">ENISA - Exploring the opportunities and limitations of current Threat Intelligence Platforms</a></li>
 <li><a href="https://www.virusbulletin.com/blog/2019/01/threat-intelligence-teams-should-consider-recruiting-journalists/" target="_blank" rel="noopener">Virus Bulletin - Threat intelligence teams should consider recruiting journalists</a></li>
 <li><a href="https://chrissanders.org/training/writing/" target="_blank" rel="noopener">Chris Sanders - Effective Security Writing Training</a></li>
 <li><a href="https://www.sans.org/course/cyber-security-writing-secrets" target="_blank" rel="noopener">SANS SEC402 - The Secrets to Successful Cybersecurity Writing: Hack the Reader</a></li>
